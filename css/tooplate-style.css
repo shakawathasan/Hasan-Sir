@@ -179,7 +179,7 @@ b, strong {
   width: 10px;
   height: 10px;
   border-radius: 100%;
-  background-color: #000;
+  background-color: #0000;
   position: absolute;
   left: 30%;
   animation-name:loader;
