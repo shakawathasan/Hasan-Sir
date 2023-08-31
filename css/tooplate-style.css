@@ -492,7 +492,9 @@ b, strong {
 .google-map iframe {
   width: 100%;
 }
-
+.contact ul{
+  margin: 30px 0 0 0;
+}
 .contact-form {
   position: relative;
 }
